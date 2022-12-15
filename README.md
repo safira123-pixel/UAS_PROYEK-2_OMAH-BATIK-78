@@ -1,8 +1,12 @@
 
+Login Admin : 
+
 http://127.0.0.1:8000/admin/login
 
-superadmin@gmail.com | superadmin
+Email dan Password : 
 
-pekerja@gmail.com | admin123
+Admin -> superadmin@gmail.com | superadmin
 
-user@gmail.com | user1234
+Pekerja -> pekerja@gmail.com | admin123
+
+Pelanggan -> user@gmail.com | user1234

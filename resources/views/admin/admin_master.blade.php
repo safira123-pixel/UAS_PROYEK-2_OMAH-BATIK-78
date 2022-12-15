@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="{{ asset('backend/images/favicon.ico') }}">
+    <link rel="icon" href="{{ asset('backend/images/1727013687201165.png') }}">
 
-    <title>SALZA Admin - Dashboard</title>
+    <title>Omah Batik 78 Admin - Dashboard</title>
 
     <!-- Vendors Style-->
     <link rel="stylesheet" href="{{ asset('backend/css/vendors_css.css') }}">

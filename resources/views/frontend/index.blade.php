@@ -3,7 +3,7 @@
 @section('content')
 
 @section('title')
-SALZA E-Commerce
+Omah Batik 78
 @endsection
 
 <div class="body-content outer-top-xs" id="top-banner-and-menu">
